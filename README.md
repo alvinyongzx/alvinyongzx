@@ -112,4 +112,13 @@ I document my continuous learning journey:
 
 ---
 
+## 📊 GitHub Activity
+
+*Note: Many of my enterprise projects are private due to customer confidentiality and NDAs. 
+The stats below reflect my public work and learning repositories.*
+
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinyongzx&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinyongzx&layout=compact&theme=radical)
+
 *Last updated: April 2026 | Always open to collaboration, mentorship, and discussing enterprise software architecture!*

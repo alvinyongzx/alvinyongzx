@@ -35,11 +35,9 @@ I architect and implement solutions across complex enterprise environments:
 | Category | Technologies |
 |----------|---------------|
 | **ERP Platforms** | JD Edwards (JDE), SAP, Enterprise Integration |
-| **Languages** | Python, SQL, JavaScript, Java |
-| **Cloud & DevOps** | AWS, Docker, CI/CD pipelines, Infrastructure as Code |
-| **Data & Workflows** | ETL, data validation, workflow automation |
+| **Languages** | Python, SQL, VisualBasic, .NET, Java |
 | **Testing & QA** | Test automation, data readiness, quality frameworks |
-| **Tools** | Git, Jira, Postman, monitoring & observability tools |
+| **Tools** | Git, Jira, Rocketlane, monitoring & observability tools |
 
 ---
 
@@ -56,10 +54,11 @@ I architect and implement solutions across complex enterprise environments:
 
 ### 🔍 [Test Data Automation for Enterprise Systems](https://github.com/alvinyongzx/test-data-automation)
 *Framework for generating and managing production-like test data safely for ERP validation*
+*In Progress*
 
-- **Problem Solved:** Improving QA readiness through intelligent test data generation
-- **Key Features:** Data masking, relationship integrity, scalable test environments
-- **Technologies:** Python, AWS, SQL
+- **Problem Solved:** Improving QA readiness through test data generation
+- **Key Features:** 
+- **Technologies:**
 
 ---
 
@@ -68,7 +67,6 @@ I architect and implement solutions across complex enterprise environments:
 
 - **Focus:** CI/CD pipelines, infrastructure automation, monitoring in ERP contexts
 - **Key Topics:** Release management, configuration management, deployment safety
-- **Technologies:** Docker, AWS, Infrastructure as Code
 
 ---
 

@@ -76,10 +76,7 @@ I architect and implement solutions across complex enterprise environments:
 
 I document my continuous learning journey:
 
-- **[learning-python](https://github.com/alvinyongzx/learning-python)** – Python for enterprise automation and data processing
-- **[aws-certification](https://github.com/alvinyongzx/aws-certification)** – Cloud architecture and DevOps concepts
-- **[system-design-notes](https://github.com/alvinyongzx/system-design-notes)** – Scalability, reliability, and enterprise architecture patterns
-- **[erp-implementation-guide](https://github.com/alvinyongzx/erp-implementation-guide)** – Best practices from real ERP deployments
+
 
 ---
 
@@ -95,7 +92,7 @@ I document my continuous learning journey:
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [alvinyongzxpmp](https://www.linkedin.com/in/alvinyongzxpmp/)
-- **Email:** [alvin.yongzx@gmail.com]
+- **Email:** [alvin.yongzx@gmail.com](mailto:alvin.yongzx@gmail.com)
   
 ---
 

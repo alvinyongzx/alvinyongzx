@@ -37,7 +37,7 @@ I architect and implement solutions across complex enterprise environments:
 | **ERP Platforms** | JD Edwards (JDE), SAP, Enterprise Integration |
 | **Languages** | Python, SQL, VisualBasic, .NET, Java |
 | **Testing & QA** | Test automation, data readiness, quality frameworks |
-| **Tools** | Git, Jira, Rocketlane, monitoring & observability tools |
+| **Tools** | Git, Jira, Confluence, Rocketlane, monitoring & observability tools |
 
 ---
 
